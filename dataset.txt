@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/alincijov/self-driving-cars
+
+https://www.kaggle.com/datasets/alincijov/keras-ssd
